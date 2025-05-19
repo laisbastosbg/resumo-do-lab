@@ -93,4 +93,4 @@ Classificação de dados baseada na frequência de uso, afetando diretamente o c
 * Amazon Web Services (AWS)
 * Google Cloud Platform (GCP)
 
-Todos seguem o modelo de pagamento por uso, oferecem alta disponibilidade, e suportam múltiplos serviços com **integração, segurança e escalabilidade.
+Todos seguem o modelo de pagamento por uso, oferecem alta disponibilidade, e suportam múltiplos serviços com integração, segurança e escalabilidade.
